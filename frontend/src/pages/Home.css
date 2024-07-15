@@ -1,0 +1,31 @@
+
+.image-container {
+    height: calc(100vh - 5rem);
+    border: 2px dotted #2b2a2a; /* Add dotted border */
+  }
+
+  
+  
+  .image-container.has-image {
+    border: none; 
+    background-color: transparent; 
+  }
+
+
+  .upload-btn{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #6e5799;;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .upload-btn:hover{
+    background-color: #6441a4;
+  }

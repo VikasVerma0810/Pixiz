@@ -1,0 +1,26 @@
+.documentation-container {
+    padding: 20px;
+  }
+  
+  .feature {
+    margin-bottom: 40px;
+  }
+  
+  .feature h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .feature p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .example img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
